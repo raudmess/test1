@@ -1,0 +1,25 @@
+body{margin: 10%; background-color: whitesmoke;}
+.head{text-align:right; position:relative; bottom: 40px; left: 50%; color: black; text-decoration: none; padding: 15px;}
+.head:hover{background-color:blue; font-size:1.1em;}
+
+.card img{height:100px; border-radius: 50%;}
+    
+    .card{
+        display:flex; 
+        padding: 12%;
+        align-items: center;
+    }
+    
+    .user-details{
+        display:inline-block; 
+        margin-left :20px;
+    }
+    
+    .box{border: 1px solid; width: fit-content; height: fit-content; 
+    border-radius: 20px; position: relative; top: 75px; right: 100px;
+    padding: 5px;}
+
+
+
+
+    
